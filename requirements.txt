@@ -1,1 +1,6 @@
 pylint
+flask
+flask_api
+flasgger
+sensible
+pandas
